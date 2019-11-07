@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App</string>
+    <string name="version">Version</string>
+    <string name="go">Go</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="web_page">Bedu Mobile</string>
+    <string name="error_read">Error to read</string>
+    <string name="error_parse">Error to parse JSON</string>
+    <string name="error_field">Please, complete field</string>
+</resources>
